@@ -1,0 +1,13 @@
+.MessageList {
+    background-color: whitesmoke;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 75vw;
+    padding: 20px;
+}
+
+.Message {
+    font-family: monospace;
+}
